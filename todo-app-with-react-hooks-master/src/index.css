@@ -1,0 +1,21 @@
+@import url(//fonts.googleapis.com/css?family=Droid+Serif);
+@import url(//fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+
+body {
+  font-family: 'Droid Serif';
+  font-size: medium;
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+h1, h2, h3 {
+  font-family: 'Yanone Kaffeesatz';
+  font-weight: 400;
+  margin-bottom: 0;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
